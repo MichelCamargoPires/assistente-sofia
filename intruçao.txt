@@ -1,0 +1,5 @@
+pip install Yaml8
+pip install numpy
+pip install PyAudio
+pip install vosk
+pip install pyttsx3
